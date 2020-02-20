@@ -1,0 +1,7 @@
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\bin\Debug\tasktodo18.exe.config
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\bin\Debug\tasktodo18.exe
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\bin\Debug\tasktodo18.pdb
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\obj\Debug\tasktodo18.csprojResolveAssemblyReference.cache
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\obj\Debug\tasktodo18.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\obj\Debug\tasktodo18.exe
+D:\Users\Admin\source\repos\tasktodo18\tasktodo18\obj\Debug\tasktodo18.pdb
